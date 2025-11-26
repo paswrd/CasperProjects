@@ -1,0 +1,9 @@
+# Force GitHub Linguist to classify the main file correctly
+index.php linguist-language=PHP
+
+# Mark common asset folders as vendored so they don't affect language % (optional)
+assets/* linguist-vendored
+public/* linguist-vendored
+
+# Normalize line endings across platforms
+* text=auto
