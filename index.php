@@ -269,9 +269,9 @@
                 <div class="col-md-6 text-md-end">
                     <h5 class="footer-heading mb-3">Products</h5>
                     <ul class="list-unstyled footer-links mb-4">
-                        <li><a href="#holo" class="footer-link">Holo</a></li>
-                        <li><a href="#casper-hotel" class="footer-link">Casper Hotel</a></li>
-                        <li><a href="#trimly" class="footer-link">Trimly</a></li>
+                        <li><a href="https://holo.fyi" class="footer-link">Holo</a></li>
+                        <li><a href="https://casper.fun" class="footer-link">Casper Hotel</a></li>
+                        <li><a href="https://casp.ltd" class="footer-link">Trimly</a></li>
                     </ul>
                     <div class="social-icons">
                         <!-- I will add social media links later, need to setup accounts lol -->
